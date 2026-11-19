@@ -1,0 +1,4 @@
+[
+  {"habilidade": "python", "descricao": "Criei um script para validar registros fictícios de um arquivo CSV."},
+  {"habilidade": "SQLite", "descricao": "Armazenei chamados de um aplicativo de demonstração em um banco local."}
+]

@@ -1,0 +1,5 @@
+[
+  {"requisito": "Python", "tipo": "obrigatório"},
+  {"requisito": "SQL", "tipo": "obrigatório", "termos": ["SQLite"]},
+  {"requisito": "Docker", "tipo": "diferencial"}
+]
